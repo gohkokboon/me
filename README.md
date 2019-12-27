@@ -1,5 +1,5 @@
 ## What is this
-This repository holds the source code that leverage on ReactJS & GitHub-Pages for me to host my simple personal/portfolio page.
+This repository holds the source code that leverage on ReactJS & Bootstrap & GitHub-Pages for me to host my simple personal/portfolio page.
 
 To find out how to do this, check out the background section below.
 
